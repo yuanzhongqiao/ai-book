@@ -61,11 +61,11 @@
 
 ### 机器学习算法进行公式推导、问题分析以及代码实现
 
-[机器学习算法进行公式推导、问题分析以及代码实现](http://www.gitpp.com/ai100/ml_notes) 
+[机器学习算法进行公式推导、问题分析以及代码实现](http://www.gitcc.com/ai100/ml_notes) 
 
 # TensorFlow的实现
 
-[TensorFlow的入门实现](http://www.gitpp.com/ai1/tensorflow-examples-cn)
+[TensorFlow的入门实现](http://www.gitcc.com/ai1/tensorflow-examples-cn)
 
 
 以下是一个经典机器学习算法的入门手册：
@@ -303,13 +303,13 @@ print(y_pred[:10])
 
 ### 机器学习算法进行公式推导、问题分析以及代码实现
 
-[机器学习算法进行公式推导、问题分析以及代码实现](http://www.gitpp.com/ai100/ml_notes) 
+[机器学习算法进行公式推导、问题分析以及代码实现](http://www.gitcc.com/ai100/ml_notes) 
 
 # TensorFlow的实现
 
-[TensorFlow的入门实现](http://www.gitpp.com/ai1/tensorflow-examples-cn)
+[TensorFlow的入门实现](http://www.gitcc.com/ai1/tensorflow-examples-cn)
 
 
 
 
-# 返回 AI book [ AI book](http://www.gitpp.com/ai1/ai-book)
+# 返回 AI book [ AI book](http://www.gitcc.com/ai1/ai-book)

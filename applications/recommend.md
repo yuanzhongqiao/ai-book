@@ -45,4 +45,4 @@
 
 ## 深度学习在推荐系统
 
-[深度学习在推荐系统论文和总结](http://www.gitpp.com/yuanzhongqiao/deep-recommender-system)
+[深度学习在推荐系统论文和总结](http://www.gitcc.com/yuanzhongqiao/deep-recommender-system)

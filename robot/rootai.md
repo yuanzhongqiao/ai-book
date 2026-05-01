@@ -1,17 +1,19 @@
+# 返回  AIBOOK  # 返回   https://www.gitcc.com/ai1/ai-book
+
 # 机器人实战项目
 
 1）ROS室内机器人系统:
 
 系统实现了基于 SLAM 的室内机器人在陌生环境中自主定位建图、定点导航以及图像数据的传输。可以应用在酒店、商场、医院、博物馆、学校教学楼实验楼等室内场所，实现为人们实体引领导航、探索目标、配送物品、提供无接触服务等等场景。
 
-[ROS室内机器人系统](http://www.gitpp.com/robot101/indoorrobotsimulation)
+[ROS室内机器人系统](http://www.gitcc.com/robot101/indoorrobotsimulation)
 
 
 
 #参考项目
 1)基于语音识别的移动机器人路径控制系统（平台：ROS、Ubuntu)
  
-[基于语音识别的移动机器人路径控制系统（平台：ROS、Ubuntu)](http://www.gitpp.com/robotflow/robot-voice)
+[基于语音识别的移动机器人路径控制系统（平台：ROS、Ubuntu)](http://www.gitcc.com/robotflow/robot-voice)
 
 以下是一份关于机器人和人工智能结合的研究前沿综述报告：
 
@@ -48,7 +50,7 @@
 
 1)基于ROS的手眼标定
 
-[基于ROS的手眼标定](http://www.gitpp.com/paperagent/handeye-calib)
+[基于ROS的手眼标定](http://www.gitcc.com/paperagent/handeye-calib)
 
 ### 阅读材料
 
@@ -155,10 +157,10 @@
 
 ##实战项目
 
-[面向现代机器人领域的运行时开发框架](http://www.gitpp.com/robot101/aimrobot-cn)
+[面向现代机器人领域的运行时开发框架](http://www.gitcc.com/robot101/aimrobot-cn)
 
 
 
 ##所有机器人的项目
 
-[所有机器人的开源项目](http://www.gitpp.com/explore/projects/topics/robotics)
+[所有机器人的开源项目](http://www.gitcc.com/explore/projects/topics/robotics)

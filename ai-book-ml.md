@@ -1,4 +1,4 @@
-# 返回 AI book [ AI book](http://www.gitpp.com/ai1/ai-book)
+# 返回 AI book [ AI book](http://www.gitcc.com/ai1/ai-book)
 
 机器学习（Machine Learning）是人工智能的一个子集，旨在通过计算机系统的学习和自动化推理，使计算机能够从数据中获取知识和经验，并利用这些知识和经验进行模式识别、预测和决策。以下是关于机器学习的详细介绍、基本概念以及一个学习计划。
 
@@ -28,7 +28,7 @@
 
 # 机器学习算法Python实现
 
-[机器学习算法Python实现](http://www.gitpp.com/it-xiaozi/machinelearningpython)
+[机器学习算法Python实现](http://www.gitcc.com/it-xiaozi/machinelearningpython)
 
  
 
@@ -36,10 +36,10 @@
 
 大名鼎鼎TensorFlow
 
-[机器学习基本算法TensorFlow实现](http://www.gitpp.com/ai1/tensorflow-examples-cn)
+[机器学习基本算法TensorFlow实现](http://www.gitcc.com/ai1/tensorflow-examples-cn)
 
 北大 曹老师 人工智能入门和TensorFlow实现
-[北大-人工智能实践：Tensorflow笔记](http://www.gitpp.com/datadi/tensorflownote)
+[北大-人工智能实践：Tensorflow笔记](http://www.gitcc.com/datadi/tensorflownote)
 
 
 # 基于sklearn库
@@ -550,7 +550,7 @@ for epoch in range(100):
 
 大名鼎鼎TensorFlow
 
-[机器学习基本算法TensorFlow实现](http://www.gitpp.com/ai1/tensorflow-examples-cn)
+[机器学习基本算法TensorFlow实现](http://www.gitcc.com/ai1/tensorflow-examples-cn)
 
 
 
@@ -563,4 +563,4 @@ sklearn库介绍
 
 
 
-# 返回 AI book [ AI book](http://www.gitpp.com/ai1/ai-book)
+# 返回 AI book [ AI book](http://www.gitcc.com/ai1/ai-book)

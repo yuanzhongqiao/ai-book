@@ -20,7 +20,7 @@ TensorFlow是由Google Brain团队开发并在2015年首次发布的一款开源
 
 
 最简介的tensorflow教程
-[致力于写最简单的tensorflow教程](http://www.gitpp.com/big-ai/tensorflow-show)
+[致力于写最简单的tensorflow教程](http://www.gitcc.com/big-ai/tensorflow-show)
 
 ## TF做项目的一般过程
 
@@ -246,10 +246,10 @@ predictions = loaded_model.predict(input_image)
 ## 极简实例
 
 1）tensorflow 实现端到端的OCR：二代身份证号识别
-[tensorflow 实现端到端的OCR：二代身份证号识别](http://www.gitpp.com/big-ai/ocr_tensorflow_cnn)
+[tensorflow 实现端到端的OCR：二代身份证号识别](http://www.gitcc.com/big-ai/ocr_tensorflow_cnn)
 
 2）基于TensorFlow实现CNN水果检测
-[基于TensorFlow实现CNN水果检测](http://www.gitpp.com/big-ai/fruit-recognition)
+[基于TensorFlow实现CNN水果检测](http://www.gitcc.com/big-ai/fruit-recognition)
 
 ## 实战项目
 
@@ -258,23 +258,23 @@ predictions = loaded_model.predict(input_image)
    * 图像识别：用于图像分类、目标检测和图像分割等任务。
 
 
-        [基于 opencv 和 tensorflow 的车牌识别项目](http://www.gitpp.com/ai100/cv-cnn-lpr)http://www.gitpp.com/ai100/cv-cnn-lpr
+        [基于 opencv 和 tensorflow 的车牌识别项目](http://www.gitcc.com/ai100/cv-cnn-lpr)http://www.gitcc.com/ai100/cv-cnn-lpr
    * 自然语言处理：用于文本分类、机器翻译和情感分析等任务。
 
-        [基于tensorflow 实现的用textcnn方法做情感分析的项目，有数据，可以直接跑](http://www.gitpp.com/ai100/sentiment_analysis_textcnn)
+        [基于tensorflow 实现的用textcnn方法做情感分析的项目，有数据，可以直接跑](http://www.gitcc.com/ai100/sentiment_analysis_textcnn)
    * 语音识别：将输入的语音转换成文本。
 
-        [tensorflow实现的中文语音识别项目](http://www.gitpp.com/ai100/speech-recognize)
+        [tensorflow实现的中文语音识别项目](http://www.gitcc.com/ai100/speech-recognize)
 
    * 推荐系统：根据用户的历史行为和偏好推荐产品或内容。
    * 增强现实：在移动设备上实现增强现实应用。
    * 金融预测：预测股票价格变动或识别信用卡欺诈行为。
    * 医学图像分析：用于医学图像的诊断和分析。
 
-      [医学：目标检测内镜活检钳](http://www.gitpp.com/ai100/ssd-tensorflow) http://www.gitpp.com/ai100/ssd-tensorflow
+      [医学：目标检测内镜活检钳](http://www.gitcc.com/ai100/ssd-tensorflow) http://www.gitcc.com/ai100/ssd-tensorflow
 
    * 工业故障诊断
-   [论文： 工业故障诊断](http://www.gitpp.com/Transfer/fault-diagnosis)
+   [论文： 工业故障诊断](http://www.gitcc.com/Transfer/fault-diagnosis)
 
 ### 如何快速掌握TensorFlow
 
@@ -285,7 +285,7 @@ predictions = loaded_model.predict(input_image)
    * 了解TensorFlow的基本概念，如张量、计算图、操作、会话、变量等。
    * 理解TensorFlow的工作流程和计算模型。
 
-[TensorFlow官方中文版手册](http://www.gitpp.com/laodata/tensorflow-zh)
+[TensorFlow官方中文版手册](http://www.gitcc.com/laodata/tensorflow-zh)
 
 * **安装TensorFlow**：
 
@@ -323,17 +323,17 @@ predictions = loaded_model.predict(input_image)
 
 推荐，吃透一个项目即可
 
-[使用tensorflow实现卷积神经网络，进行验证码识别](http://www.gitpp.com/ai100/cnn_captcha)
+[使用tensorflow实现卷积神经网络，进行验证码识别](http://www.gitcc.com/ai100/cnn_captcha)
 
 
 2）ImageNet，MNIST在线手写体识别，基于Tensorflow, Django实现
 
-[ImageNet，MNIST在线手写体识别，基于Tensorflow, Django实现](http://www.gitpp.com/big-ai/djangotensorflow)
+[ImageNet，MNIST在线手写体识别，基于Tensorflow, Django实现](http://www.gitcc.com/big-ai/djangotensorflow)
 
 
 3） 人脸检测MTCNN算法，采用tensorflow框架编写，从理解到训练，中文注释完全
 
-[人脸检测MTCNN算法，采用tensorflow框架编写，从理解到训练，中文注释完全](http://www.gitpp.com/big-ai/tensorflow-mtcnn)
+[人脸检测MTCNN算法，采用tensorflow框架编写，从理解到训练，中文注释完全](http://www.gitcc.com/big-ai/tensorflow-mtcnn)
 
 
 
@@ -342,26 +342,26 @@ predictions = loaded_model.predict(input_image)
 
 零售电商客户流失模型，基于tensorflow，xgboost4j-spark实现线性模型LR，FM，GBDT，RF，进行模型效果对比
 
-[零售电商客户流失模型](http://www.gitpp.com/big-ai/customer_churn_prediction)
+[零售电商客户流失模型](http://www.gitcc.com/big-ai/customer_churn_prediction)
 
 
 5） Two-Stage目标检测模型在Tensorflow2当中的实现
 
 Two-Stage目标检测模型在Tensorflow2当中的实现
 
-[Two-Stage目标检测模型在Tensorflow2当中的实现](http://www.gitpp.com/natures/faster-rcnn-tf2)
+[Two-Stage目标检测模型在Tensorflow2当中的实现](http://www.gitcc.com/natures/faster-rcnn-tf2)
 
 ##  TensorFlow 
 
-[TensorFlow 实例](http://www.gitpp.com/dsboy/tensorflow-examples)
+[TensorFlow 实例](http://www.gitcc.com/dsboy/tensorflow-examples)
 
 
 ## TensorFlow 
 
 
 
-[使用 Tensorflow 进行人脸识别](http://www.gitpp.com/hh/facenet-cn)
+[使用 Tensorflow 进行人脸识别](http://www.gitcc.com/hh/facenet-cn)
 
 ## 实战 TensorFlow 
 
-[Tensorflow 实战](http://www.gitpp.com/laodata/tensorflow_practice-cn)
+[Tensorflow 实战](http://www.gitcc.com/laodata/tensorflow_practice-cn)

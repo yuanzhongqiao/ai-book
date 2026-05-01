@@ -1,4 +1,4 @@
-# 返回 AI book [ AI book](http://www.gitpp.com/ai1/ai-book)
+# 返回 AI book [ AI book](http://www.gitcc.com/ai1/ai-book)
 
 ## 深度学习
 
@@ -29,7 +29,7 @@
 
 # 中科院计算所 智能计算系统 AI Computing Systems 陈云霁
 一套完整的智能计算体系，课件+源代码
-[智能计算系统 AI Computing Systems 陈云霁](http://www.gitpp.com/hipo-ai/aics)
+[智能计算系统 AI Computing Systems 陈云霁](http://www.gitcc.com/hipo-ai/aics)
 
 
 
@@ -38,26 +38,26 @@
 ## 实例
 
 
-[基于深度学习的垃圾分类]( http://www.gitpp.com/ai100/dl-wastesort) 
- http://www.gitpp.com/ai100/dl-wastesort
+[基于深度学习的垃圾分类]( http://www.gitcc.com/ai100/dl-wastesort) 
+ http://www.gitcc.com/ai100/dl-wastesort
 
 
-[深度学习识别网站验证码](http://www.gitpp.com/ai100/captcha)
+[深度学习识别网站验证码](http://www.gitcc.com/ai100/captcha)
 
 使用深度学习对人体心电数据进行多分类
 
-[使用深度学习对人体心电数据进行多分类](http://www.gitpp.com/ai100/ecg-with-deep-learning)  
+[使用深度学习对人体心电数据进行多分类](http://www.gitcc.com/ai100/ecg-with-deep-learning)  
 
 工业场景:基于深度学习的滚动轴承故障诊断方法
 
-[基于深度学习的滚动轴承故障诊断方法](http://www.gitpp.com/ai100/fault-diagnosis-dp)
+[基于深度学习的滚动轴承故障诊断方法](http://www.gitcc.com/ai100/fault-diagnosis-dp)
 
 
 # 了解的一些项目，不一定是要做，但是看看真实的项目，培养感觉
 
 1 轴承数据集故障诊断的仿真平台    用了简单的几个深度学习算法
 
-[轴承数据集故障诊断的仿真平台](http://www.gitpp.com/robot101/bearingplatform_hua)
+[轴承数据集故障诊断的仿真平台](http://www.gitcc.com/robot101/bearingplatform_hua)
 
 
 ### 深度学习常见算法
@@ -748,21 +748,25 @@ net.load_state_dict(torch.load('simplenet.pth'))
 
 
 1） 基于深度学习高性能中文车牌识别
-[基于深度学习高性能中文车牌识别](http://www.gitpp.com/ai100/hyperlpr-dp) 
+[基于深度学习高性能中文车牌识别](http://www.gitcc.com/ai100/hyperlpr-dp) 
  
 2）基于深度学习的滚动轴承故障诊断方法
-[基于深度学习的滚动轴承故障诊断方法](http://www.gitpp.com/ai100/fault-diagnosis-dp)
+[基于深度学习的滚动轴承故障诊断方法](http://www.gitcc.com/ai100/fault-diagnosis-dp)
 
 3)基于深度学习的肿瘤辅助诊断系统
-[基于深度学习的肿瘤辅助诊断系统](http://www.gitpp.com/datashow/gpp-ct)
+[基于深度学习的肿瘤辅助诊断系统](http://www.gitcc.com/datashow/gpp-ct)
 
 
 4)一个基于深度学习的中文语音识别系统
-[一个基于深度学习的中文语音识别系统](http://www.gitpp.com/hugindata/asrt_speechrecognition)
+[一个基于深度学习的中文语音识别系统](http://www.gitcc.com/hugindata/asrt_speechrecognition)
 
 5)利用卫星和航空图像进行深度学习的技术
-[利用卫星和航空图像进行深度学习的技术](http://www.gitpp.com/techniques/techniques)
+[利用卫星和航空图像进行深度学习的技术](http://www.gitcc.com/techniques/techniques)
 
 
+当然，还有我们自己开源的 基于深度学习的工业低代码平台
 
- # 返回 AI book [ AI book](http://www.gitpp.com/ai1/ai-book)
+
+https://www.gitcc.com/democode/ai-demo-hub
+
+ # 返回 AI book [ AI book](http://www.gitcc.com/ai1/ai-book)

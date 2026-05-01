@@ -10,15 +10,15 @@
 # 善于用平台和框架快速实现应用开发
 
 
-[从数据采集到模型训练、模型部署，XEdu在每一个环节都提供了合适的工具](http://www.gitpp.com/robot101/openlabedu)  
+[从数据采集到模型训练、模型部署，XEdu在每一个环节都提供了合适的工具](http://www.gitcc.com/robot101/openlabedu)  
 
 #### 开始干项目 最好的学习，就是实战
 
 1） OCR  人工智能的入门项目
-[OCR（光学字符识别）项目](http://www.gitpp.com/robot101/c-ocr)
+[OCR（光学字符识别）项目](http://www.gitcc.com/robot101/c-ocr)
 
 2） 一个拍照做题程序 demo
-[一个拍照做题程序 demo](http://www.gitpp.com/zhangfei-ai/mathai)
+[一个拍照做题程序 demo](http://www.gitcc.com/zhangfei-ai/mathai)
 
 
 
@@ -26,19 +26,19 @@
 
 本项目简单尝试了基于飞桨训练的模型，某为的IoT平台以及某东的天气API， 设计了智慧交通AIoT的简单方案，目前功能比较简单，后续将考虑玩一些更有意思的想法。
 
-[智慧交通AIoT的简单方案](http://www.gitpp.com/spring808/smarttrafficaiot)
+[智慧交通AIoT的简单方案](http://www.gitcc.com/spring808/smarttrafficaiot)
 
 4）智能道路病害分析平台
 
 智能道路病害分析平台
 
-[智能道路病害分析平台](http://www.gitpp.com/lowcode-king/road-distress)
+[智能道路病害分析平台](http://www.gitcc.com/lowcode-king/road-distress)
 
 # JAVA  spring
 
 spring-ai学习手册
 
-[spring-ai学习手册](http://www.gitpp.com/spring808/spring-ai-zh-tutorial)
+[spring-ai学习手册](http://www.gitcc.com/spring808/spring-ai-zh-tutorial)
 
 
 # 程序员很少有机会从底层开始做AI项目

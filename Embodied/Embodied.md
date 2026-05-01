@@ -1,7 +1,7 @@
 
 
 1、具身智能的指南
-   https://www.gitpp.com/scilab/embodied-ai-guide-cn
+   https://www.gitcc.com/scilab/embodied-ai-guide-cn
    
 
 
